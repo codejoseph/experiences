@@ -1,0 +1,23 @@
+.blog-post-title {
+color: #333333;
+margin-bottom: 25px;
+text-align: left;
+}
+#upload-img  .form-control {
+background: none;
+background-color: #fbfbfb;
+border: 2px solid #d5d5d5;
+border-radius: 0;
+color: #999;
+height: 44px;
+}
+#upload-img .btn {
+border-radius: 0;
+padding: 11px 12px;
+}
+#event, #promotion {
+padding-top: 30px;
+}
+textarea.form-control {
+height: 84px;
+}
